@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "master": "parkrun-th",
+    "develop": "parkrun-th-dev"
+  }
+}

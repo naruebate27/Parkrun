@@ -1,0 +1,10 @@
+# image: google/cloud-sdk:latest
+image: node:12.14
+pipelines:
+  default:
+    - step:
+        caches:
+          - node
+        script:
+          - npm install
+          - npm run deploy

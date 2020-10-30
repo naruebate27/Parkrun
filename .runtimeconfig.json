@@ -1,0 +1,12 @@
+{
+  "is_dev": true,
+  "jwt": {
+    "secret": "jwt_secret"
+  },
+  "cors": {
+    "origin": true
+  },
+  "mongodb": {
+    "uri": "mongodb+srv://arima:1q2w3e4r@cluster0-nwk4e.mongodb.net/parkrun?retryWrites=true"
+  }
+}

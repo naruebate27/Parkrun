@@ -1,0 +1,5 @@
+{
+  "mongodb": {
+    "uri": "mongodb+srv://parkrun:wchRpVX8EX91Ii0O@production.qdden.gcp.mongodb.net/parkrun?retryWrites=true&w=majority"
+  }
+}
